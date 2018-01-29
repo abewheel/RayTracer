@@ -3,7 +3,7 @@
 
 <p align="center">
 
-  <img src="https://github.com/abewheel/RayTracer/assign3/blob/master/003.jpg" alt="Shelves"/>
+  <img src="https://github.com/abewheel/RayTracer/blob/master/assign3/003.jpg" alt="Shelves"/>
 
 </p>
 
@@ -17,7 +17,7 @@ Ray Tracer is a Visual Studio 2017 C++ program that accepts a .txt file defining
 
 <p align="center">
 
-  <img src="https://github.com/abewheel/RayTracer/assign3/blob/master/004.jpg" alt="Text"/>
+  <img src="https://github.com/abewheel/RayTracer/blob/master/assign3/004.jpg" alt="Text"/>
 
 </p>
 
@@ -31,7 +31,7 @@ This repository contains the Visual Studio 2017 project code for Ray Tracer. I w
 
 <p align="center">
 
-  <img src="https://github.com/abewheel/RayTracer/assign3/blob/master/001.jpg" alt="Ball and triangle"/>
+  <img src="https://github.com/abewheel/RayTracer/blob/master/assign3/001.jpg" alt="Ball and triangle"/>
 
 </p>
 
